@@ -66,3 +66,5 @@
     * [RocksDB 写入流程详解](https://zhuanlan.zhihu.com/p/33389807)
     * [RocksDB 笔记](https://alexstocks.github.io/html/rocksdb.html)
     * [看图了解RocksDB](https://zhuanlan.zhihu.com/p/49966056)
+    * [博客 - GuKaifeng](https://gukaifeng.cn/tags/RocksDB/)
+    * [手摸手学习 RocksDB 的 MemTable](https://www.modb.pro/db/81213)
