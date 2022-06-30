@@ -30,7 +30,7 @@
     * [【Rocksdb实现分析及优化】Iterator](https://kernelmaker.github.io/Rocksdb_Iterator)
     * [【Rocksdb实现分析及优化】使用PinnableSlice减少Get时的内存拷贝](https://kernelmaker.github.io/Rocksdb_pinnableslice)
     * [【Rocksdb实现分析及优化】FileIndexer](https://kernelmaker.github.io/Rocksdb_file_indexers)
-    * [【Rocksdb实现分析及优化】画了几张rocksdb的图](【Rocksdb实现分析及优化】画了几张rocksdb的图)
+    * [【Rocksdb实现分析及优化】画了几张rocksdb的图](https://kernelmaker.github.io/rocksdb-pic)
     * [【Rocksdb实现分析及优化】Write Ahead Log刷盘策略及实现](https://kernelmaker.github.io/Rocksdb_WAL)
     * [【Rocksdb实现分析及优化】enable_pipelined_write](https://kernelmaker.github.io/Rocksdb_pipeline_write)
     * [【Rocksdb实现分析及优化】recompact bottommost files after releasesnapshot](https://kernelmaker.github.io/Rocksdb_releasesnapshot)
