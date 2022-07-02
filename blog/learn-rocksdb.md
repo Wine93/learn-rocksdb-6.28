@@ -60,6 +60,9 @@
     * [TiKV 是如何存取数据的](https://pingcap.com/zh/blog/how-tikv-store-get-data)
     * [Titan 的设计与实现](https://pingcap.com/zh/blog/titan-design-and-implementation)
 
+* [Talent Plan 之 TinyKV 学习营推荐课程](https://learn.pingcap.com/learner/course/390002)
+    * [深入了解 TiKV 架构原理: 存储引擎（作者：张博康）](https://learn.pingcap.com/learner/player/390002;id=390002;classroomId=540003;rcoId=360021;courseDetailId=390002)
+
 * 其他好文
     * [RocksDB——内联跳跃表](https://zhuanlan.zhihu.com/p/29277585)
     * [RocksDB Writer](https://zhuanlan.zhihu.com/p/45952903)
