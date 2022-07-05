@@ -71,3 +71,5 @@
     * [看图了解RocksDB](https://zhuanlan.zhihu.com/p/49966056)
     * [博客 - GuKaifeng](https://gukaifeng.cn/tags/RocksDB/)
     * [手摸手学习 RocksDB 的 MemTable](https://www.modb.pro/db/81213)
+    * [RocksDB的删除机制和优化策略分析](https://emperorlu.github.io/files/2020-10-03-Rocksdb%E5%88%A0%E9%99%A4%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93.pdf)
+    * [深入 TiKV: RocksDB 存储引擎](https://tikv.github.io/deep-dive-tikv/key-value-engine/rocksdb.html#rocksdb)
